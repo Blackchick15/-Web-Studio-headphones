@@ -2,10 +2,12 @@ body{
     position: absolute;
     width: 1440px;
     height: 3402px;
-    
-   
-
 }
+
+p{
+  width: 580px;
+}
+
 .border{
   display: flex;
     position: absolute;
@@ -24,7 +26,6 @@ background: rgba(26, 16, 66, 0.95);
     }
 
    .item{
-   
     width: 150px;
     height: 61px;
    }
@@ -67,26 +68,51 @@ background: rgba(26, 16, 66, 0.95);
       margin-top: 239px;
       }
       .text{
-        position: absolute;
-        width: 620px;
-        height: 240px; 
        margin-top: 120px;
        padding-right: 30px;
 
+       position: absolute;
+       width: 620px;
+       height: 240px;
+       
+       font-family: 'Molle';
+       font-style: normal;
+       font-weight: 400;
+       font-size: 60px;
+       line-height: 75px;
+       text-align: center;
+       
+       color: #FFFFFF;
       
       }
       .p-t{
-       
         width: 620px;
         height: 240px; 
-
-        font-family: 'Molle';
-        font-style: normal;
-        font-weight: 400;
-        font-size: 50px;
-        line-height: 62px;
-        text-align: center;
-        
-        color: #FFFFFF;
-
       }
+     .color{
+      
+      color:#35F731 ;
+     }
+    
+     .Rectangle2{
+      position: absolute;
+width: 430px;
+height: 146px;
+margin-top: 425px;
+margin-left: 100px;
+
+background: rgba(255, 255, 255, 0.18);
+     }
+     .g100{
+      position: absolute;
+width: 616px;
+height: 202px;
+
+font-family: 'Molle';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 25px;
+
+color: #FFFFFF;
+     }

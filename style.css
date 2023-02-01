@@ -30,6 +30,14 @@ background: rgba(26, 16, 66, 0.95);
     height: 61px;
    }
 
+   .link {
+    text-decoration: none;
+    font-style: normal;
+  }
+   
+
+
+
     .list {
         list-style: none;
         margin: 0;
@@ -129,10 +137,11 @@ color: #FFFFFF;
      }
 
      .div-nav{
+      
       position: absolute;
       width: 1260px;
       height: 574px;
-
+    
      padding-left: 70px;
      padding-top: 71px;
      }
@@ -140,16 +149,15 @@ color: #FFFFFF;
      .nav-div{
       width: 502px;
       height: 502px;
-      padding-top: 72px;
+      margin-top: 72px;
       padding-right: 100px;
      }
      .ul-nav{
-      position: relative;
+      position: absolute;
       width: 548px;
       height: 91px;
       padding-left: 534px;
-      padding-top: 20px;
-     
+     padding-bottom: 140px;
       font-family: 'Molle';
       font-style: normal;
       font-weight: 400;

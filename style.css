@@ -7,7 +7,7 @@ body{
 p{
   width: 580px;
 }
-
+/* header */
 .border{
   display: flex;
     position: absolute;
@@ -115,4 +115,46 @@ font-size: 20px;
 line-height: 25px;
 
 color: #FFFFFF;
+     }
+     /* nav */
+     .nav{
+      display: flex;
+      position: absolute;
+      height: 747px;
+    margin-left: 240px;
+    width: 1440px;
+   height: 747px;
+    margin-top: 747px;
+    background-color:rgba(26, 16, 66, 0.95) ;
+     }
+
+     .div-nav{
+      position: absolute;
+      width: 1260px;
+      height: 574px;
+
+     padding-left: 70px;
+     padding-top: 71px;
+     }
+
+     .nav-div{
+      width: 502px;
+      height: 502px;
+      padding-top: 72px;
+      padding-right: 100px;
+     }
+     .ul-nav{
+      position: relative;
+      width: 548px;
+      height: 91px;
+      padding-left: 534px;
+      padding-top: 20px;
+     
+      font-family: 'Molle';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 48px;
+      line-height: 60px;
+
+      color: #FFFFFF;
      }

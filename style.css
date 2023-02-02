@@ -152,7 +152,37 @@ color: #FFFFFF;
       margin-top: 72px;
       padding-right: 100px;
      }
+     /* .si > .list:not(:last-child){
+     margin-left: 100px;
+     margin-top: 100px;
+     } */
      .ul-nav{
+      display: flex;
+      position: absolute;
+    
+      padding-left: 534px;
+     padding-bottom: 160px;
+      font-family: 'Molle';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 48px;
+      line-height: 60px;
+
+      color: #FFFFFF;
+     }
+
+     .nav-s{
+      
+     position: absolute;
+     display: flex;
+    margin-left: 240px;
+    width: 1440px;
+   height: 747px;
+    margin-top: 1494px;
+    background-color:rgba(26, 16, 66, 0.95) ;
+     }
+
+     .ul-nav-s{
       position: absolute;
       width: 548px;
       height: 91px;
@@ -165,4 +195,12 @@ color: #FFFFFF;
       line-height: 60px;
 
       color: #FFFFFF;
+     }
+     .div-nav-s{
+      position: absolute;
+      width: 1260px;
+      height: 574px;
+    
+     padding-left: 70px;
+     padding-top: 71px;
      }

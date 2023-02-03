@@ -34,7 +34,18 @@ background: rgba(26, 16, 66, 0.95);
     text-decoration: none;
     font-style: normal;
   }
-   
+   p{ 
+    width: 620px;
+    height: 18px;
+    font-family: 'Molle';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 75px;
+    text-align: center;
+    
+    color: #FFFFFF;
+   }
 
 
 
@@ -76,7 +87,7 @@ background: rgba(26, 16, 66, 0.95);
       margin-top: 239px;
       }
       .text{
-       margin-top: 120px;
+       margin-top: 100px;
        padding-right: 30px;
 
        position: absolute;
@@ -98,6 +109,12 @@ background: rgba(26, 16, 66, 0.95);
         height: 240px; 
       }
      .color{
+      font-family: 'Molle';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 60px;
+      line-height: 75px;
+      text-align: center;
       
       color:#35F731 ;
      }
@@ -203,4 +220,19 @@ color: #FFFFFF;
     
      padding-left: 70px;
      padding-top: 71px;
+     }
+     .paragraph{
+      position: absolute;
+      width: 548px;
+      height: 91px;
+      padding-right: 50px;
+
+      font-family: 'Molle';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 48px;
+      line-height: 60px;
+
+      color: #FFFFFF;
+
      }

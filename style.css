@@ -82,18 +82,19 @@ background: rgba(26, 16, 66, 0.95);
       .img{ 
         margin-top: 31px;
         margin-left: 740px;
+        
       }
       .img-t{
         position: absolute;
-      width: 466px;
-      height: 466px;
+      width: 450px;
+      height: 450px;
       margin-left: 805px;
       margin-top: 239px;
       }
       .text{
        margin-top: 100px;
        padding-right: 30px;
-
+      
        position: absolute;
        width: 620px;
        height: 240px;

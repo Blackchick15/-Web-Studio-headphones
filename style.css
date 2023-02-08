@@ -360,12 +360,64 @@ color: #000000;
     margin-left: 240px;
     background: rgba(26, 16, 66, 0.95);
     }
-
+     
    .iPad{
    margin-left:153px ;
-   margin-top: 189px;
+   margin-top: 69px;
+   width: 1134px;
+   height: 744px;
+   }
+
+   .iPad-div{
+    position: absolute;
+    width: 1134px;
+    height: 744px;
+    margin-top: 120px;
    }
 
    .Line{
-   margin-top:117px ;
+   margin-top: 100px;
+   }
+   .Line-div{
+    width: 1440px;
+    height: 5px;
+   }
+
+   .section-p{
+    display: flex;
+    position: absolute;
+    width: 1440px;
+    height: 1000px;
+    background: rgba(26, 16, 66, 0.95);
+    margin-top: 1000px;
+    margin-left: 240px;
+   }
+   .div-text{
+    position: absolute;
+    width: 1000px;
+    height: 500px;
+    margin-top: 114px;
+    margin-left: 212px;
+    background: rgba(131, 187, 238, 0.41);
+    border-radius: 30px;
+   }
+   .ul-text{
+    position: absolute;
+      width: 900px;
+      height: 450px;
+      margin-bottom: 25px;
+      margin-left: 10px;
+     /* background-color: #35F731; */
+   }
+
+
+   .p-text{
+    
+    font-family: 'Fascinate Inline';
+      font-style: normal;
+      font-weight: 900;
+      font-size: 40px;
+      line-height: 53px;
+      text-align: left;
+      color: #000000;
    }

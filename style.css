@@ -351,3 +351,21 @@ color: #000000;
       margin-left: 835px;
      margin-top: 251px;
     }
+    /* portfolio */
+    .border-2{
+      display: flex;
+        position: absolute;
+        width: 1440px;
+    height: 1000px;
+    margin-left: 240px;
+    background: rgba(26, 16, 66, 0.95);
+    }
+
+   .iPad{
+   margin-left:153px ;
+   margin-top: 189px;
+   }
+
+   .Line{
+   margin-top:117px ;
+   }

@@ -377,10 +377,13 @@ color: #000000;
 
    .Line{
    margin-top: 100px;
+   color: #35F731;
    }
+   
    .Line-div{
     width: 1440px;
     height: 5px;
+    color: #35F731;
    }
 
    .section-p{
@@ -420,4 +423,8 @@ color: #000000;
       line-height: 53px;
       text-align: left;
       color: #000000;
+   }
+
+   .p-text:hover{
+    color: #919191a8;
    }

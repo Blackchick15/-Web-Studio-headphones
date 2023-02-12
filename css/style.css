@@ -428,3 +428,70 @@ color: #000000;
    .p-text:hover{
     color: #919191a8;
    }
+   /* footer */
+   .footer-2{
+    position: absolute;
+    width: 1440px;
+    height: 282px;
+    margin-top: 2000px;
+    margin-left: 240px;
+    background: #D9D9D9;
+   
+   }
+   .footer{
+    position: absolute;
+    width: 1440px;
+    height: 282px;
+    margin-top: 2988px;
+    margin-left: 240px;
+    background: #D9D9D9;
+   
+   }
+
+   .footer-div{
+     width: 1406px;
+     height: 249.15px;
+     /* background-color: aqua; */
+
+   }
+
+   .footer-h3{
+    position: absolute;
+width: 297px;
+height: 68px;
+margin-top: 20px;
+margin-left: 25px;
+font-family: 'Molengo';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 60px;
+
+color: #000000;
+   }
+   .footer-ul{
+    position: absolute;
+    width: 421px;
+    height: 120px;
+    margin-top: 90px;
+    font-family: 'Molengo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+   }
+   .footer-icon{
+    display: flex;
+    position: absolute;
+    margin-top: 230px;
+    margin-right: 20px;
+    width: 421px;
+    height: 46px;
+    /* background-color: #35F731; */
+  }
+    .footer-icon>.icon:not(:last-child){
+      margin-right: 29px;
+    }
+ 
+ 
